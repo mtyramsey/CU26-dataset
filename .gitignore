@@ -1,0 +1,33 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Python (if used)
+__pycache__/
+*.pyc
+
+# Large dataset files (IMPORTANT)
+*.zip
+*.tar
+*.gz
+*.rar
+
+# Raw data (optional depending on your plan)
+raw/
+captures/
+recordings/
+
+# Outputs
+outputs/
+results/
+logs/
+
+# Point cloud / sensor data
+*.ply
+*.pcd
+*.npy
+*.npz
+
+# Models
+*.pt
+*.pth

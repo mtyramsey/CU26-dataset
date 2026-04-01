@@ -1,0 +1,3 @@
+Pointclouds - .pcd containing intensity (in .txt file) from Velodyne
+Images - .png from primary and secondary cameras
+timestamps - .txt file for each frame
