@@ -22,7 +22,7 @@ Developed as part of a capstone project at **Carleton University**, this dataset
 ---
 ## 👥 Team
 
-<img src="visuals/CU26Team2.jpg" width="600"/>
+<img src="visuals/CU26Team2.jpg"/>
 
 * Michael Ramsey
 * Edward Hebert
