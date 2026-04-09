@@ -1,3 +1,3 @@
 Pointclouds - .pcd containing intensity 
 Images - .png from primary and secondary cameras
-timestamps - .txt file for each frame
+timestamps - for each pointcloud and image
