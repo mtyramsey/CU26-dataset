@@ -15,13 +15,19 @@ Developed as part of a capstone project at **Carleton University**, this dataset
 
 ---
 
+## ⬇️ Download
+
+👉 **[Download from Google Drive](https://drive.google.com/drive/folders/17RymOEIRjV1r-T1K7hTB9jAJCRWBlEul?usp=sharing)**
+
+---
 ## 👥 Team
 
-<img src="visuals/CU26Team.jpg" width="600"/>
+<img src="visuals/CU26Team2.jpg" width="600"/>
 
 * Michael Ramsey
 * Edward Hebert
 * Clark Brake
+* Aziz Al-Najjar
 
 ---
 
@@ -111,12 +117,6 @@ Data was collected in:
 Two bag files are dedicated to calibration using a checkerboard.
 
 👉 [https://github.com/mtyramsey/Multiframe-pointcloud-registeration-and-multi-camera-projection](https://github.com/mtyramsey/Multiframe-pointcloud-registeration-and-multi-camera-projection)
-
----
-
-## ⬇️ Download
-
-👉 **[Download from Google Drive](ADD_LINK_HERE)**
 
 ---
 
